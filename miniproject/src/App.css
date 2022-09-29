@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+nav {
+  width: 80%;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  height: 16vh;
+  align-items: center;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-size: 16px;
+}
+
+.links a {
+  margin-left: 25px;
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+}
+.pink-btn{
+  background-color: #F96C65;
+  border-radius: 100px;
+  color: white;
+  box-shadow: 2px 4px 20px #f96c6532;
+}
+
+#contact-btn{
+  padding: 12px 30px  ;
+  color: white;
+}
+.heading{
+text-align: center
+}
